@@ -1,0 +1,19 @@
+
+body{
+    background-color: blanchedalmond;
+}
+
+#title{
+    font-family: "Brush Script MT";
+    font-size: 75px;
+    text-align: center;
+}
+
+#recipes-pic{
+    height: auto;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
