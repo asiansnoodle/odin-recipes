@@ -17,3 +17,24 @@ body{
     margin-right: auto;
     width: 50%;
 }
+
+.recipes-list{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.recipes-list .list-item{
+    display: inline-block;
+    padding: 100px;
+    text-align: center;
+    font-family: "Brush Script MT";
+    size: 40px;
+    
+}
+
+.recipes-list .item-pic{
+    padding: 8px;
+    display: block;
+    border: 10px;
+}
